@@ -11,6 +11,9 @@ app.get('/', (req, res)=>{
     res.send('my own server')
 })
 
+app.get('/chefs', (req, res)=>{
+    res.send(data)
+})
 
 
 app.listen(port, ()=>{
