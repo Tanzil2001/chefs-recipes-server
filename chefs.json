@@ -43,7 +43,7 @@
             },
             {
                 "recipe_name": "Chocolate Mousse",
-                "recipe_image": "",
+                "recipe_image": "https://images.unsplash.com/photo-1555072930-714bba1d24e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
                 "ingredients": [
                     "6 ounces semi-sweet chocolate, chopped",
                     "3 tablespoons unsalted butter",
